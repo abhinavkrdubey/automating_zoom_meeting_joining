@@ -21,6 +21,7 @@ Date and time(24hrs format) and the meeting id and password(if applicable) in th
 Double click on the "Auto.py" to run the script. If you are using conda, then kindly activate the command prompt and type:
 
 "python Auto.py"
+```
 
 ## Issues
 If you face any issues please report the issue in the repository i will try to solve it ASAP.
